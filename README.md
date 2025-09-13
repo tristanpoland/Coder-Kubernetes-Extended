@@ -1,3 +1,13 @@
+---
+display_name: Kubernetes (Deployment)
+description: Provision Kubernetes Deployments as Coder workspaces
+icon: ../../../site/static/icon/k8s.png
+maintainer_github: coder
+verified: true
+tags: [kubernetes, container]
+---
+
+
 # WHAT I CHANGED
 
 Below this point is the normal readme for this Coder template but before we get to that here is what I changed:
